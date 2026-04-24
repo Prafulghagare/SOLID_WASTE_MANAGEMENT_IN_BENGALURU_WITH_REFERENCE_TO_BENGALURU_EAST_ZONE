@@ -4,8 +4,24 @@ Analyzed waste management challenges in Bengaluru’s East Zone (Domlur site) th
 ## 🔧 Tools Used
 
 <p align="left">
+  <!-- Excel -->
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/512/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
+  </a>
+
+  <!-- Google Forms -->
+  <a href="https://www.google.com/forms/about/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/512/google-forms.png" alt="Google Forms" width="40" height="40"/>
+  </a>
+
+  <!-- Notepad -->
+  <a href="https://en.wikipedia.org/wiki/Windows_Notepad" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/512/notepad.png" alt="Notepad" width="40" height="40"/>
+  </a>
+
+  <!-- Microsoft Word -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/512/microsoft-word-2019--v1.png" alt="Word" width="40" height="40"/>
   </a>
 </p>
 ## Need of the study: 
