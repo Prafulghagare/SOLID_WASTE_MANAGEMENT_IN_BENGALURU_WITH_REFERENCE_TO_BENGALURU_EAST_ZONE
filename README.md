@@ -24,7 +24,9 @@ Analyzed waste management challenges in Bengaluru’s East Zone (Domlur site) th
     <img src="https://img.icons8.com/color/512/microsoft-word-2019--v1.png" alt="Word" width="40" height="40"/>
   </a>
 </p>
+
 ## Need of the study: 
+
 •	I previously participated as volunteer in Brand Bengaluru organized by BBMP. Topic was solid waste management, got peculiar to study further on solid waste management.
 •	People come from different states, districts; villages reside in Bengaluru for work. While going to work or coming from office, they throw garbage on road, instead of auto tippers/ dustbin collector I observed this, studying would help to gain information root cause and identify solutions
 •	To gain knowledge about types of waste generated, segregation of waste disposal, what challenges they faced, transportation process, types of technology used, and types of agencies that participated in the SMW
